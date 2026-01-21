@@ -1,13 +1,21 @@
-## Sales Insights Data Analysis Project
+# 📊 Sales Insights Data Analysis Project
 
-### Instructions to setup mysql on your local computer
+A hands-on data analysis project focused on extracting meaningful sales insights using **MySQL** and **Power BI**.
 
-1. Follow step in this video to install mysql on your local computer
-https://www.youtube.com/watch?v=WuBcTJnIuzo
+---
 
-1. SQL database dump is in db_dump.sql file above. Download `db_dump.sql` file to your local computer and import it as per instructions given in the tutorial video
+## 🛠️ Instructions to Setup MySQL on Your Local Computer
 
-### Data Analysis Using SQL
+1. Follow the steps in this video to install MySQL on your local computer:  
+   ▶️ https://www.youtube.com/watch?v=WuBcTJnIuzo
+
+2. The SQL database dump is available in the **`db_dump.sql`** file above.  
+   - Download the `db_dump.sql` file to your local computer  
+   - Import it by following the instructions given in the tutorial video
+
+---
+
+## 🧮 Data Analysis Using SQL
 
 1. Show all customer records
 
