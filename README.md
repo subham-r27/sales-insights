@@ -3,7 +3,6 @@
 A hands-on data analysis project focused on extracting meaningful sales insights using **MySQL** and **Power BI**.
 
 ---
-[sales_insight_after_feedback.pdf](https://github.com/user-attachments/files/24789415/sales_insight_after_feedback.pdf)
 
 ## 🛠️ Instructions to Setup MySQL on Your Local Computer
 
