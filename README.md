@@ -1,6 +1,7 @@
 # 📊 Sales Insights Data Analysis Project
 
 A hands-on data analysis project focused on extracting meaningful sales insights using **MySQL** and **Power BI**.
+<img width="1536" height="1024" alt="AIMS_GRID" src="https://github.com/user-attachments/assets/858f4456-19b6-460e-99f4-325d8359121b" />
 
 ---
 
